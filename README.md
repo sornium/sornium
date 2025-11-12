@@ -24,10 +24,10 @@ I work on diverse projects that challenge me both creatively and technically.
 
 ## What I’m Building
 
-[![Roblox Games](https://img.shields.io/badge/Roblox-Games-blue?style=for-the-badge)](https://www.roblox.com/)  
-[![Discord Bots](https://img.shields.io/badge/Discord-Bots-7289DA?style=for-the-badge)](#)  
-[![OSINT Tools](https://img.shields.io/badge/OSINT-Tools-green?style=for-the-badge)](#)  
-[![Website Development](https://img.shields.io/badge/Website-Development-orange?style=for-the-badge)](#)
+
+<p align="center">
+  <img src="https://github.com/sornium/sornium-readme-assets/raw/main/what-im-building.gif" alt="What I'm Building Animation" width="500"/>
+</p>
 
 ---
 
