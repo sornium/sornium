@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**sornium/sornium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
-Here are some ideas to get you started:
+### Security Tools
+- Custom security scanners and penetration testing utilities  
+- Vulnerability detection systems  
+- Security automation scripts  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Discord Bots
+- Moderation and utility bots  
+- Custom command systems  
+- Community-focused interactive bots  
+
+### Roblox Games
+- Lua-based game development  
+- Game mechanics and systems  
+- Interactive player experiences  
+
+### OSINT Tools
+- Location checkers  
+- Image analysis tools  
+- Phone number lookup  
+- Name lookup  
+- Other OSINT utilities  
+
+### Web Applications
+- Security dashboards and interfaces  
+- Tool/project management systems  
+- Frontend development for web tools  
