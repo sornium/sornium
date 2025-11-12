@@ -22,7 +22,7 @@ I work on diverse projects that challenge me both creatively and technically.
 
 ---
 
-## Currently Working On
+## What I’m Building
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00ff00&center=true&vCenter=true&width=500&lines=Roblox+Games;Discord+Bots;OSINT+Tools;Website+Development" alt="Typing SVG" />
