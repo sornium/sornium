@@ -6,15 +6,19 @@ I’m a cybersecurity engineer working on Roblox games, OSINT tools, Discord bot
 
 ## About Me
 
-I work on diverse projects that challenge me both creatively and technically.  
+I work on diverse projects that challenge me both creatively and technically.
 
 ---
 
 ## Languages & Tools
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00ff00&center=true&vCenter=true&width=600&lines=Python;JavaScript;Lua;TypeScript;HTML;CSS;SQL" alt="Languages Typing" />
-</p>
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
