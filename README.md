@@ -24,9 +24,10 @@ I work on diverse projects that challenge me both creatively and technically.
 
 ## What I’m Building
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00ff00&center=true&vCenter=true&width=500&lines=Roblox+Games;Discord+Bots;OSINT+Tools;Website+Development" alt="Typing SVG" />
-</p>
+[![Roblox Games](https://img.shields.io/badge/Roblox-Games-blue?style=for-the-badge)](https://www.roblox.com/)  
+[![Discord Bots](https://img.shields.io/badge/Discord-Bots-7289DA?style=for-the-badge)](#)  
+[![OSINT Tools](https://img.shields.io/badge/OSINT-Tools-green?style=for-the-badge)](#)  
+[![Website Development](https://img.shields.io/badge/Website-Development-orange?style=for-the-badge)](#)
 
 ---
 
